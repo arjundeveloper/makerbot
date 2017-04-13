@@ -18,7 +18,8 @@ I've personally found more success in using Linux, since installing PyGObject on
 	- `sudo pip install future`
 	- `sudo pip install megapi`
 3. Connect the Makeblock Orion via USB to the Raspberry Pi.
-4. Run `python2 client.py`
+4. Create a file named `connect.txt`. Inside this file should be the IP address of your PC.
+5. Run `python2 client.py`
 
 #### Use instructions (on your PC)
 
